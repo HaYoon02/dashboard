@@ -1,1 +1,10 @@
-
+{
+  "apps": [
+    {
+      "serverURL": "http://attiserver002.herokuapp.com/1",
+      "appId": "q5EPleN4LS06RxrRzPFMrLxnaPC3WUklJH1iX4FJ",
+      "masterKey": "wzA0wTLzjpdr3IgDRR3P0Nbok8gyzwG2RspZSJmr",
+      "appName": "attiserver02"
+    }
+  ]
+}
