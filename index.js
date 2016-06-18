@@ -9,8 +9,8 @@ var dashboard = new ParseDashboard({
     {
       appId: process.env.APP_ID || 'q5EPleN4LS06RxrRzPFMrLxnaPC3WUklJH1iX4FJ',
       masterKey: process.env.MASTER_KEY || 'wzA0wTLzjpdr3IgDRR3P0Nbok8gyzwG2RspZSJmr',
-      serverURL: process.env.SERVER_URL || 'http://localhost:1337/parse',
-      appName: process.env.APP_NAME || 'http://attiserver002.herokuapp.com/1',
+      serverURL: process.env.SERVER_URL || 'http://attiserver002.herokuapp.com/1',
+      appName: process.env.APP_NAME || 'attiserver02',
     },
   ],
 });
